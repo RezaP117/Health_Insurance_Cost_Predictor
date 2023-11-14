@@ -11,4 +11,6 @@
 5. What did your research find?
    I found that the trait most associated with the charges a person would face is their smoking status, smokers on average have a much higher amount of charges than non-smokers. I also found that the patients in the         south-east region have the most cost and highest average cost of insurance.
 6. Next steps?
-   If I were to keep iterating on this problem, I would source more data from other sources where it is allowed to get more variation in data, I would try to add more specific features such as state/city so that I can a     more comprehensive understanding of the charge distribution. 
+   If I were to keep iterating on this problem, I would source more data from other sources where it is allowed to get more variation in data, I would try to add more specific features such as state/city so that I can a     more comprehensive understanding of the charge distribution.
+7. Outline of project
+   Notebook folder contains eda.ipynb, model_training.ipynb, and a data folder with the csv file
