@@ -5,6 +5,7 @@
 ## Project structure
 
 notebook folder -> contains data in a csv file, eda and model training notebooks
+
 src folder and other files -> ignore (for personal purposes)
 
 1. Why should anyone care about this question?
