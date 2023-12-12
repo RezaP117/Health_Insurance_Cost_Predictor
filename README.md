@@ -4,7 +4,9 @@
 
 ## Project structure
 
-notebook folder -> contains data in a csv file, eda and model training notebooks: https://github.com/RezaP117/Health_Insurance_Cost_Predictor/tree/main/notebook
+notebook folder -> contains data in a csv file, eda and model training notebooks: 
+
+https://github.com/RezaP117/Health_Insurance_Cost_Predictor/tree/main/notebook
 
 src folder and other files -> ignore (for personal purposes)
 
