@@ -1,6 +1,6 @@
 ## Health Insurance Cost Predictor
 
-All files to be graded are located inside of the notebook folder
+## All files to be graded are located inside of the notebook folder
 
 1. Why should anyone care about this question?
    Understanding these types of costs can greatly help patients and business owners. By making a machine learning model that predicts these values, business owners can allocate the proper resources financially to ensure that workers are getting the healthcare that they need. This can also help with making health insurance more accessible to people who have lower income.
