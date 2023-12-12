@@ -25,6 +25,14 @@ src folder and other files -> ignore (for personal purposes)
 7. Outline of project
    Notebook folder contains eda.ipynb, model_training.ipynb, and a data folder with the csv file
 
+## Steps taken in project
+1. Make csv file accessible for notebooks
+2. Perform EDA on the data
+3. Perform Data Preprocessing
+4. Create different regression models
+5. Determine which model has the best performance
+6. Continue development on the best model
+
 ## Important EDA findings (also metioned in eda.ipynb)
 
 1. None of the numerical features had a high amount of correlation, so no features were removed for multicollinearity
