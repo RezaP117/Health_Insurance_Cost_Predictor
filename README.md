@@ -2,6 +2,11 @@
 
 ## All files to be graded are located inside of the notebook folder
 
+## Project structure
+
+notebook folder -> contains data in a csv file, eda and model training notebooks
+src folder and other files -> ignore (for personal purposes)
+
 1. Why should anyone care about this question?
    Understanding these types of costs can greatly help patients and business owners. By making a machine learning model that predicts these values, business owners can allocate the proper resources financially to ensure that workers are getting the healthcare that they need. This can also help with making health insurance more accessible to people who have lower income.
 2. What question am I trying to answer?
