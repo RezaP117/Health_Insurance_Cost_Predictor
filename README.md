@@ -32,6 +32,10 @@ src folder and other files -> ignore (for personal purposes)
 4. For this data, the number of children didn't seem to show any patterns in terms of costs (my initial thought was that the higher the number of children, the higher the insurance charges)
 5. The Southeast region had the highest average cost of insurance compared to the Northeast, Northwest, and Southwest regions
 
+## Important notes to be taken based on EDA findings 
+1. Businesses and healthcare providers in the Southeast region should be more accomodating towards making health care more affordable as this is the region with the highest mean of insurance costs. (This should be a rule that is followed in general, but for the purposes of this data set specifically, the Southeast region should be looke at more intently)
+2. If patients who smoke were to eliminate it from their habits, then they would most likely see a decrease in their health care costs. 
+
 ## Next steps
 
 If I were to continue working on this problem, I would invest into getting more data and engineer more features that I think would be impactful in determining the costs. I would also collberate with experts in the healthcare field which could help in my understanding of these features and why they might have the importance that they do. I would also try and get this model to be used with a variety of businesses and datasets so that I can effeciently evaluate its performace. The most important part post-implementation would be the constant reevaluation and tuning of the model so that it can better predict these prices.
